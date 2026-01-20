@@ -3,7 +3,7 @@
 **An automatic control systems project featuring a compact actuator system capable of playing 18 piano keys using only 9 motors.**
 
 ## 📂 Project Resources
-* **[View Project Slides & Circuit Diagram (PDF)](./WirelessRoboticPiano.pdf)** *(Note: Click to view architecture)*
+* **[View Project Slides & Circuit Diagram (PDF)](./Wireless_Robotic_Piano.pdf)** *(Note: Click to view architecture)*
 * **[View Source Code](./Piano_Code.ino)**
 
 ---

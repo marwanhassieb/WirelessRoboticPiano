@@ -49,4 +49,6 @@ We implemented a real-time ASCII-to-Angle interface for wireless tele-operation.
 ### Automatic Presets
 * **`1`** : Happy Birthday 🎂
 * **`2`** : Merry Christmas 🎄
+* **`3`** : Twinkle Twinkle 🌟
+* **`4`** : Jingle Bells 🔔
 * **`5`** : Ode to Joy (Dual Octave) 🎻

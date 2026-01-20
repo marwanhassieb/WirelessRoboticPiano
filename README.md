@@ -29,22 +29,26 @@
 
 We implemented a real-time ASCII-to-Angle interface for wireless tele-operation.
 
-| Letter | Note | Color | Servo | Direction |
-| :---: | :--- | :--- | :---: | :--- |
-| **a** | Do | Pink | 0 | Left |
-| **b** | Re | Orange | 1 | Left |
-| **c** | Mi | White | 0 | Right |
-| **d** | Fa | Green | 1 | Right |
-| **e** | Sol | Blue | 2 | Left |
-| **f** | La | White | 3 | Left |
-| **g** | Si | White | 2 | Right |
-| **h** | High Do | White | 3 | Right |
-| **i** | High Re | White | 4 | Left |
-| **j** | High Mi | White | 5 | Left |
-| **k** | High Fa | White | 4 | Right |
-| **l** | High Sol | White | 5 | Right |
-| **m** | High La | White | 6 | Left |
-| **n** | High Si | White | 6 | Right |
+| Letter | Note | Servo ID | Direction |
+| :---: | :--- | :---: | :--- |
+| **a** | Do | 0 | Left |
+| **b** | Re | 1 | Left |
+| **c** | Mi | 0 | Right |
+| **d** | Fa | 1 | Right |
+| **e** | Sol | 2 | Left |
+| **f** | La | 3 | Left |
+| **g** | Si | 2 | Right |
+| **h** | High Do | 3 | Right |
+| **i** | High Re | 4 | Left |
+| **j** | High Mi | 5 | Left |
+| **k** | High Fa | 4 | Right |
+| **l** | High Sol | 5 | Right |
+| **m** | High La | 6 | Left |
+| **n** | High Si | 7 | Left |
+| **o** | High Do+ | 6 | Right |
+| **p** | High Re+ | 7 | Right |
+| **q** | High Mi+ | 8 | Left |
+| **r** | High Fa+ | 8 | Right |
 
 ### Automatic Presets
 * **`1`** : Happy Birthday 🎂

@@ -5,6 +5,16 @@
 ## 📂 Project Resources
 * **[View Project Slides & Circuit Diagram (PDF)](./Wireless%20Robotic%20Piano.pdf)** *(Note: Click to view architecture)*
 * **[View Source Code](./Piano_Code.ino)**
+* ## ⚙️ Mechanical Design (SolidWorks)
+**[📂 View CAD Files & 3D Models](./Mechanical_Design)**
+
+We utilized **SolidWorks** to design a custom chassis that integrates the servo motors and electronics into a compact form factor.
+
+* **Design Intent:** Minimized footprint to fit 9 motors within the span of 18 standard piano keys.
+* **Mounting Strategy:** Designed custom brackets for the SG90 servos to ensure rigid mounting, preventing mechanical "play" (wobble) during high-speed actuation.
+* **Simulation:** Validated the servo horn travel paths in CAD to ensure the 55° (CW) and 60° (CCW) angles would perfectly strike the key centers without collision.
+
+![CAD Render](./Mechanical_Design/design.png)
 
 ---
 

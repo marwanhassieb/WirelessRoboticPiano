@@ -69,6 +69,6 @@ We implemented a real-time ASCII-to-Angle interface for wireless tele-operation.
 ## 👥 Contributors
 This project was a collaborative effort.
 * **[Marwan Hassieb]** - [GitHub](https://github.com/marwanhassieb)
-* **[Saif Refaat]** - [LinkedIn]((https://www.linkedin.com/in/saif-refaat-8884112aa/))
-* **[Waleed Yasser]** - [LinkedIn]((https://www.linkedin.com/in/waleed-yasser-b95b77306/))
+* **[Saif Refaat]** - [LinkedIn](https://www.linkedin.com/in/saif-refaat-8884112aa/))
+* **[Waleed Yasser]** - [LinkedIn](https://www.linkedin.com/in/waleed-yasser-b95b77306/))
 * **[Ahmed Refaat]** - [LinkedIn](https://www.linkedin.com/in/ahmed-refaat-a36927321/))
